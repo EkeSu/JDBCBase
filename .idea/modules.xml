@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eke.jdbc.base.iml" filepath="$PROJECT_DIR$/.idea/modules/eke.jdbc.base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eke.jdbc.base_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eke.jdbc.base_main.iml" group="eke.jdbc.base" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eke.jdbc.base_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eke.jdbc.base_test.iml" group="eke.jdbc.base" />
+    </modules>
+  </component>
+</project>
